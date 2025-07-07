@@ -1,1 +1,1 @@
-nick: "denischifer", hwid: "Y/ra4x2kdaptRMeE1quiFhNMOyVmF51Nqb+yEv7VkFY=", status: "DEV", uid: "1", level: "FULL"
+nick: "denischifer", hwid: "Y/ra4x2kdaptRMeE1quiFhNMOyVmF51Nqb+yEv7VkуY=", status: "DEV", uid: "1", level: "FULL"
